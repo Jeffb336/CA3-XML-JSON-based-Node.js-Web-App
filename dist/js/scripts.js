@@ -12,7 +12,7 @@ fetch('data.json')
   .then(data => {
     // create an HTML table element
     const table = document.createElement('table');
-
+  
     // iterate over the rows in the data
     data.forEach(row => {
       // create a table row element
