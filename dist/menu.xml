@@ -1,0 +1,73 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<roastmoreland30-34>
+    <drink name="Coffee">
+        <drinkselection>
+            <item>espresso</item>
+            <price>3.00</price>
+        </drinkselection>
+        <drinkselection>
+            <item>dbespresso</item>
+            <price>5.00</price>
+        </drinkselection>
+        <drinkselection decaf="true">
+            <item>dcespresso</item>
+            <price>2.50</price>
+        </drinkselection>
+    </drink>
+    <drink name="Frappe">
+        <drinkselection>
+            <item>saltedcaramelfrappe</item>
+            <price>4.50</price>
+        </drinkselection>
+        <drinkselection>
+            <item>caramel</item>
+            <price>4.50</price>
+        </drinkselection>
+        <drinkselection decaf="true">
+            <item>dfsaltedcaramelfrappe</item>
+            <price>4.0</price>
+        </drinkselection>
+    </drink>
+    <drink name="Iced Coffee">
+        <drinkselection>
+            <item>icedlatte</item>
+            <price>4.00</price>
+        </drinkselection>
+        <drinkselection>
+            <item>dbicedlatte</item>
+            <price>6.00</price>
+        </drinkselection>
+        <drinkselection decf="true">
+            <item>dficedlatte</item>
+            <price>3.00</price>
+        </drinkselection>
+    </drink>
+    <drink name="Tea">
+        <drinkselection>
+            <item>minttea</item>
+            <price>3.50</price>
+        </drinkselection>
+        <drinkselection>
+            <item>camomile</item>
+            <price>3.50</price>
+        </drinkselection>
+        <drinkselection decf="true">
+            <item>dftea</item>
+            <price>3.00</price>
+        </drinkselection>
+    </drink>
+    <drink name="Deserts">
+        <drinkselection>
+            <item>blueberrymuffin</item>
+            <price>3.75</price>
+        </drinkselection>
+        <drinkselection>
+            <item>cheesecake</item>
+            <price>3.75</price>
+        </drinkselection>
+        <drinkselection decf="true">
+            <item>brownie</item>
+            <price>3.75</price>
+        </drinkselection>
+    </drink>
+</roastmoreland30-34>
